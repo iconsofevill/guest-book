@@ -41,5 +41,15 @@
         Assumenda iste amet, dicta iusto, reprehenderit quidem, aliquid error ex perspiciatis mollitia natus beatae placeat laboriosam unde eveniet animi corporis debitis totam dignissimos officiis repellendus recusandae dolore. Excepturi sunt rerum iste nesciunt autem quisquam quod ab? Maiores, assumenda distinctio? Consequatur?
         Voluptatum fugiat delectus ipsam excepturi consectetur sint, dolorum reiciendis assumenda. Iste soluta aperiam porro quos quidem architecto rerum, voluptates debitis beatae ullam eaque unde eveniet, voluptatibus corporis asperiores ad nulla nisi quia. Corporis, aut inventore. Quasi praesentium saepe quia asperiores.t! Omnis incidunt doloremque reprehenderit, provident minima necessitatibus, quaerat voluptates cupiditate possimus perspiciatis blanditiis quis eos, commodi dolorem molestias magnam et alias!
     </div>
+
+    <?php
+        for ($i=1; $i <= 10; $i++) { 
+            echo $i.'<br/>';
+        }
+
+        foreach (range(1, 10) as $value) {
+            echo $value.'<br/>';
+        }
+    ?>
 </body>
 </html>
