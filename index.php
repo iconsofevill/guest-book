@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
 <body>
@@ -40,6 +41,5 @@
         Assumenda iste amet, dicta iusto, reprehenderit quidem, aliquid error ex perspiciatis mollitia natus beatae placeat laboriosam unde eveniet animi corporis debitis totam dignissimos officiis repellendus recusandae dolore. Excepturi sunt rerum iste nesciunt autem quisquam quod ab? Maiores, assumenda distinctio? Consequatur?
         Voluptatum fugiat delectus ipsam excepturi consectetur sint, dolorum reiciendis assumenda. Iste soluta aperiam porro quos quidem architecto rerum, voluptates debitis beatae ullam eaque unde eveniet, voluptatibus corporis asperiores ad nulla nisi quia. Corporis, aut inventore. Quasi praesentium saepe quia asperiores.t! Omnis incidunt doloremque reprehenderit, provident minima necessitatibus, quaerat voluptates cupiditate possimus perspiciatis blanditiis quis eos, commodi dolorem molestias magnam et alias!
     </div>
-    Guest book
 </body>
 </html>
