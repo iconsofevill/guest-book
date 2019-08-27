@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
 <body>
@@ -49,6 +50,5 @@
         Non nulla recusandae atque aspernatur facere. Nisi corporis suscipit mollitia, aut quod doloremque, provident iste optio culpa, autem quisquam voluptas sunt magnam. Culpa soluta laborum eum aliquam et nemo nisi non, officia laudantium quod eius. Esse saepe quas at vero?
         Earum hic deserunt alias consequatur error dolore facere iusto aspernatur doloribus aut odit omnis sint cumque, laborum optio incidunt! Omnis incidunt doloremque reprehenderit, provident minima necessitatibus, quaerat voluptates cupiditate possimus perspiciatis blanditiis quis eos, commodi dolorem molestias magnam et alias!
     </div>
-    Guest book
 </body>
 </html>
